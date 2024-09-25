@@ -1,8 +1,8 @@
-<h3 align="center"><Matías Di muro/></h3>
+<h1 align="center"><Matías Di muro/></h1>
 
 ###
 
-<h4 align="center">SAP BTP Backend Developer & Computer Science Student</h4>
+<h3 align="center">SAP BTP Backend Developer & Computer Science Student</h3>
 
 ###
 
@@ -32,6 +32,12 @@
   <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuoF1ImAsk8kQYbKg4DAyx8EuLCx29VO4MNA&s"  />
 </div>
 
 ###

@@ -1,8 +1,4 @@
-<h1 align="center">Matias Di muro</h1>
-
-###
-
-<h3 align="center">SAP BTP Backend Developer & Computer Science Student</h3>
+<h1 align="center">SAP BTP Backend Developer & Computer Science Student</h1>
 
 ###
 

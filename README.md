@@ -1,7 +1,7 @@
+<h1 align="center">Matias Di muro</h1>
 
 ###
 
-<h1 align="center"><Matías Di muro/></h1>
 <h3 align="center">SAP BTP Backend Developer & Computer Science Student</h3>
 
 ###
@@ -37,7 +37,6 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuoF1ImAsk8kQYbKg4DAyx8EuLCx29VO4MNA&s"  />
 </div>
 
 ###

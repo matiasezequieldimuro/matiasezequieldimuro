@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My experience includes projects that integrate SAP HANA (relational database), SAP CAP CDS, SAP BPA (Build Process Automation), SAP Workflow Management, and XSUAA (SAP Authorization & Trust Management Service). Additionally, I have worked on the design and development of microservices integrated with various ERPs and Fiori applications (UI5).</p>
+<p align="center">My professional experience includes projects that integrate SAP HANA (relational database), SAP CAP CDS, SAP BPA (Build Process Automation), SAP Workflow Management, and XSUAA (SAP Authorization & Trust Management Service). Additionally, I have worked on the design and development of microservices integrated with various ERPs and Fiori applications (UI5).</p>
 
 ###
 
